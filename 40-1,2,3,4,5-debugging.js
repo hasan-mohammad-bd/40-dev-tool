@@ -65,10 +65,24 @@
 
 //shortCut: ctrl + g to go any particular line. (works both vs and source tab)
 
-//ctrl + shift + O , to see every function in source code.
+//***ctrl + shift + O , to see every function in source code.
 //can be add break point in source tab and can be debug.
 //in source tab, press esc to open consol tab.
 
 //"pretty print" on top, to make readable coding of any website.
+
+//40-5 Debug fancy slider and fix image display, console table
+
+//console.table("")make a table to show data.
+//console.table(data.hits,[preview-url]), to show specific data.
+//understand the error message.
+
+
+//40-8 Performance tab, memory tab, Lighthouse tab
+//performence:
+//memery
+//lightHouse
+
+//40-9 Module Summary, Try out Create React APP
 
 
