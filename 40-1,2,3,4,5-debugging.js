@@ -43,7 +43,7 @@
 
 
 //search for to find more options about dev tools: chrome dev tools (console API reference)
-//copy("56",anything), copy any thing in the parenthesis
+//copy("56",anything), copy anything in the parenthesis
 //getEventListeners(phonePlus), to see how many event listener are their, in one element.
 
 
@@ -79,8 +79,8 @@
 
 
 //40-8 Performance tab, memory tab, Lighthouse tab
-//performence:
-//memery
+//performance:
+//memory
 //lightHouse
 
 //40-9 Module Summary, Try out Create React APP
